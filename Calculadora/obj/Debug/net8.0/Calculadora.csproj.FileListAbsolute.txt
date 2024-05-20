@@ -1,0 +1,15 @@
+/workspaces/Testes-Unitarios-net/Calculadora/bin/Debug/net8.0/Calculadora
+/workspaces/Testes-Unitarios-net/Calculadora/bin/Debug/net8.0/Calculadora.deps.json
+/workspaces/Testes-Unitarios-net/Calculadora/bin/Debug/net8.0/Calculadora.runtimeconfig.json
+/workspaces/Testes-Unitarios-net/Calculadora/bin/Debug/net8.0/Calculadora.dll
+/workspaces/Testes-Unitarios-net/Calculadora/bin/Debug/net8.0/Calculadora.pdb
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfoInputs.cache
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/Calculadora.AssemblyInfo.cs
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/Calculadora.csproj.CoreCompileInputs.cache
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/Calculadora.sourcelink.json
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/Calculadora.dll
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/refint/Calculadora.dll
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/Calculadora.pdb
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/Calculadora.genruntimeconfig.cache
+/workspaces/Testes-Unitarios-net/Calculadora/obj/Debug/net8.0/ref/Calculadora.dll
